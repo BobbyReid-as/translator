@@ -1,7 +1,7 @@
 # Evaluation Report: Multi-Language Translation Pipeline
 
 ## Overview
-This project implements an automated translation pipeline using HuggingFace’s **MarianMT** models. The system features an auto-detection mechanism for source languages and a custom **Gradio** web interface for user interaction. To assess the model's accuracy, a comprehensive evaluation was conducted across five language pairs, comparing results against a **Google Translate** baseline using the **SacreBLEU** metric.
+This project implements an automated translation pipeline using HuggingFace’s **MarianMT** models. The system features an auto-detection mechanism for source languages and a custom **Gradio** web interface for user interaction. To assess the model's accuracy, a comprehensive evaluation was conducted across five language pairs, comparing results against a **Google Translate** baseline using the **SacreBLEU** metric. So far it only translates 5 langues into English.
 
 ## Methodology
 * **Models**: Utilized specialized `Helsinki-NLP/opus-mt` models for French, German, Spanish, and Italian. Portuguese was handled by the `opus-mt-ROMANCE-en` model.
