@@ -1,0 +1,101 @@
+language_pair,sentence_id,source,reference,marianmt_translation,marianmt_bleu,google_translate,google_bleu
+FR→EN,1,Le soleil se lève à l'est.,The sun rises in the east.,The sun rises to the east.,41.11,The sun rises in the east.,100.0
+FR→EN,2,J'aime beaucoup la musique classique.,I really like classical music.,I like classical music very much.,27.78,I really like classical music.,100.0
+FR→EN,3,Elle travaille dans un hôpital depuis dix ans.,She has worked in a hospital for ten years.,She's been working in a hospital for ten years.,63.89,She has worked in a hospital for ten years.,100.0
+FR→EN,4,Nous partirons en vacances la semaine prochaine.,We will go on holiday next week.,We'll go on vacation next week.,26.65,We're going on vacation next week.,22.77
+FR→EN,5,Les enfants jouent dans le parc.,The children are playing in the park.,Children play in the park.,36.41,The children are playing in the park.,100.0
+FR→EN,6,Il fait très froid en hiver ici.,It is very cold in winter here.,It's very cold in winter here.,70.14,It gets very cold here in winter.,17.97
+FR→EN,7,Pouvez-vous m'indiquer le chemin pour la gare ?,Can you show me the way to the train station?,Can you tell me the way to the station?,45.56,Can you tell me the way to the train station?,74.19
+FR→EN,8,Cette ville est connue pour ses musées.,This city is known for its museums.,This city is known for its museums.,100.0,This city is known for its museums.,100.0
+FR→EN,9,Je n'ai pas encore mangé ce matin.,I have not eaten yet this morning.,I haven't eaten yet this morning.,55.78,I haven't eaten yet this morning.,55.78
+FR→EN,10,Le livre que tu m'as prêté était excellent.,The book you lent me was excellent.,The book you lent me was excellent.,100.0,The book you lent me was excellent.,100.0
+FR→EN,11,Ils ont construit une nouvelle école dans le quartier.,They built a new school in the neighbourhood.,They built a new school in the neighborhood.,75.06,They built a new school in the neighborhood.,75.06
+FR→EN,12,Ma mère prépare toujours de bons repas.,My mother always prepares good meals.,My mother always cooks good meals.,41.11,My mother always prepares good meals.,100.0
+FR→EN,13,La réunion a été reportée à demain.,The meeting has been postponed to tomorrow.,The meeting was postponed until tomorrow.,17.03,The meeting has been postponed until tomorrow.,59.46
+FR→EN,14,Il apprend le piano depuis l'âge de cinq ans.,He has been learning the piano since the age of five.,He's been learning piano since he was five years old.,10.71,He has been learning piano since the age of five.,74.26
+FR→EN,15,Les fleurs s'épanouissent au printemps.,The flowers bloom in spring.,The flowers bloom in spring.,100.0,The flowers bloom in spring.,100.0
+FR→EN,16,Nous avons regardé un film hier soir.,We watched a film last night.,We watched a movie last night.,41.11,We watched a movie last night.,41.11
+FR→EN,17,Le train est arrivé avec vingt minutes de retard.,The train arrived twenty minutes late.,The train arrived twenty minutes late.,100.0,The train arrived twenty minutes late.,100.0
+FR→EN,18,Elle parle couramment trois langues.,She speaks three languages fluently.,She speaks three languages fluently.,100.0,She speaks three languages ??fluently.,41.11
+FR→EN,19,Ce restaurant sert d'excellents plats de fruits de mer.,This restaurant serves excellent seafood dishes.,This restaurant serves excellent seafood dishes.,100.0,This restaurant serves excellent seafood dishes.,100.0
+FR→EN,20,Les nouvelles technologies changent notre façon de vivre.,New technologies are changing the way we live.,New technologies are changing our way of life.,33.03,New technologies are changing the way we live.,100.0
+DE→EN,1,Die Sonne scheint heute sehr hell.,The sun is shining very brightly today.,The sun is shining very bright today.,59.46,The sun is shining very brightly today.,100.0
+DE→EN,2,Ich lerne seit drei Jahren Deutsch.,I have been learning German for three years.,I've been learning German for three years.,74.21,I have been learning German for three years.,100.0
+DE→EN,3,Das Wetter wird morgen besser sein.,The weather will be better tomorrow.,The weather will be better tomorrow.,100.0,The weather will be better tomorrow.,100.0
+DE→EN,4,Er arbeitet in einer großen Firma in Berlin.,He works in a large company in Berlin.,He works in a large company in Berlin.,100.0,He works for a large company in Berlin.,66.06
+DE→EN,5,Wir haben gestern Abend ein Konzert besucht.,We attended a concert yesterday evening.,We went to a concert last night.,13.13,We went to a concert last night.,13.13
+DE→EN,6,Die Kinder spielen gerne im Garten.,The children like to play in the garden.,The children like to play in the garden.,100.0,The children love to play in the garden.,66.06
+DE→EN,7,Kannst du mir bitte helfen?,Can you please help me?,Can you please help me?,100.0,Can you please help me?,100.0
+DE→EN,8,Das Buch liegt auf dem Tisch.,The book is on the table.,The book's on the table.,45.48,The book is lying on the table.,50.0
+DE→EN,9,Sie hat ihr Studium mit Auszeichnung abgeschlossen.,She completed her studies with distinction.,She graduated with distinction.,28.64,She graduated with honors.,9.42
+DE→EN,10,Im Winter schneit es oft in den Bergen.,In winter it often snows in the mountains.,In winter it often snows in the mountains.,100.0,It often snows in the mountains during winter.,48.55
+DE→EN,11,Der Zug fährt um acht Uhr ab.,The train departs at eight o'clock.,The train leaves at eight o'clock.,48.89,The train departs at eight o'clock.,100.0
+DE→EN,12,Ich esse jeden Morgen Brot zum Frühstück.,I eat bread for breakfast every morning.,I eat bread for breakfast every morning.,100.0,I eat bread for breakfast every morning.,100.0
+DE→EN,13,Die Stadt hat viele schöne alte Gebäude.,The city has many beautiful old buildings.,The city has many beautiful old buildings.,100.0,The city has many beautiful old buildings.,100.0
+DE→EN,14,Er hat gestern seinen Geburtstag gefeiert.,He celebrated his birthday yesterday.,He celebrated his birthday yesterday.,100.0,He celebrated his birthday yesterday.,100.0
+DE→EN,15,"Wir müssen früh aufstehen, um den Bus zu erwischen.",We have to get up early to catch the bus.,We have to get up early to catch the bus.,100.0,We have to get up early to catch the bus.,100.0
+DE→EN,16,Das Restaurant ist für seine Küche bekannt.,The restaurant is known for its cuisine.,The restaurant is known for its cuisine.,100.0,The restaurant is known for its cuisine.,100.0
+DE→EN,17,Sie kauft immer frisches Gemüse auf dem Markt.,She always buys fresh vegetables at the market.,She always buys fresh vegetables on the market.,59.69,She always buys fresh vegetables at the market.,100.0
+DE→EN,18,Der Film war sehr spannend und gut gemacht.,The film was very exciting and well made.,The film was very exciting and well done.,75.06,The film was very exciting and well made.,100.0
+DE→EN,19,Meine Schwester wohnt in einer anderen Stadt.,My sister lives in a different city.,My sister lives in another town.,37.68,My sister lives in another city.,42.38
+DE→EN,20,Technologie verändert unsere Gesellschaft grundlegend.,Technology is fundamentally changing our society.,Technology is fundamentally changing our society.,100.0,Technology is fundamentally changing our society.,100.0
+ES→EN,1,El cielo está despejado esta mañana.,The sky is clear this morning.,The sky is clear this morning.,100.0,The sky is clear this morning.,100.0
+ES→EN,2,Me gusta mucho leer libros de historia.,I really like reading history books.,I really like reading history books.,100.0,I really enjoy reading history books.,48.89
+ES→EN,3,Ella trabaja como médica en un hospital público.,She works as a doctor in a public hospital.,She works as a doctor in a public hospital.,100.0,She works as a doctor in a public hospital.,100.0
+ES→EN,4,Vamos a la playa este fin de semana.,We are going to the beach this weekend.,We're going to the beach this weekend.,74.21,We're going to the beach this weekend.,74.21
+ES→EN,5,Los niños están haciendo los deberes.,The children are doing their homework.,The kids are doing their homework.,64.35,The children are doing their homework.,100.0
+ES→EN,6,¿Puedes ayudarme a encontrar la calle principal?,Can you help me find the main street?,Can you help me find the main street?,100.0,Can you help me find the main street?,100.0
+ES→EN,7,Este año el invierno ha sido muy frío.,This year winter has been very cold.,This year winter has been very cold.,100.0,This year the winter has been very cold.,66.06
+ES→EN,8,El tren llega a las nueve de la mañana.,The train arrives at nine in the morning.,The train arrives at nine in the morning.,100.0,The train arrives at nine in the morning.,100.0
+ES→EN,9,Mi hermano aprendió a cocinar durante la pandemia.,My brother learned to cook during the pandemic.,My brother learned to cook during the pandemic.,100.0,My brother learned to cook during the pandemic.,100.0
+ES→EN,10,La reunión empezará a las tres de la tarde.,The meeting will start at three in the afternoon.,The meeting will begin at 3 p.m.,17.75,The meeting will begin at three in the afternoon.,65.8
+ES→EN,11,"Ella habla español, inglés y francés con fluidez.","She speaks Spanish, English and French fluently.","She speaks fluent Spanish, English and French.",53.08,"She speaks Spanish, English, and French fluently.",65.8
+ES→EN,12,El museo cierra los lunes.,The museum is closed on Mondays.,The museum closes on Mondays.,32.16,The museum is closed on Mondays.,100.0
+ES→EN,13,Hemos vivido en esta ciudad durante cinco años.,We have lived in this city for five years.,We've lived in this city for five years.,77.26,We have lived in this city for five years.,100.0
+ES→EN,14,El partido de fútbol fue muy emocionante.,The football match was very exciting.,The football game was very exciting.,48.89,The football match was very exciting.,100.0
+ES→EN,15,Los precios han subido mucho este año.,Prices have risen a lot this year.,Prices have gone up a lot this year.,51.33,Prices have risen a lot this year.,100.0
+ES→EN,16,Me despierto siempre a las siete de la mañana.,I always wake up at seven in the morning.,I always wake up at seven in the morning.,100.0,I always wake up at seven in the morning.,100.0
+ES→EN,17,Esta película ganó varios premios internacionales.,This film won several international awards.,This film won several international awards.,100.0,This film won several international awards.,100.0
+ES→EN,18,El jardín está lleno de flores en primavera.,The garden is full of flowers in spring.,The garden is full of flowers in spring.,100.0,The garden is full of flowers in spring.,100.0
+ES→EN,19,Compré un nuevo ordenador para trabajar desde casa.,I bought a new computer to work from home.,I bought a new computer to work from home.,100.0,I bought a new computer to work from home.,100.0
+ES→EN,20,La tecnología avanza más rápido que nunca.,Technology is advancing faster than ever.,Technology is moving faster than ever.,48.89,Technology is advancing faster than ever before.,70.71
+IT→EN,1,Il sole tramonta ad ovest ogni sera.,The sun sets in the west every evening.,The sun sets west every night.,24.18,The sun sets in the west every evening.,100.0
+IT→EN,2,Mi piace molto la cucina italiana.,I really like Italian cuisine.,I really like Italian cuisine.,100.0,I really like Italian cuisine.,100.0
+IT→EN,3,Lei lavora come insegnante da vent'anni.,She has worked as a teacher for twenty years.,She's been working as a teacher for 20 years.,31.24,She has been working as a teacher for twenty years.,63.16
+IT→EN,4,Andiamo al cinema stasera?,Shall we go to the cinema tonight?,Are we going to the movies tonight?,16.52,Shall we go to the movies tonight?,59.46
+IT→EN,5,I bambini giocano a calcio nel cortile.,The children are playing football in the yard.,Kids play soccer in the yard.,30.9,Children play soccer in the courtyard.,10.92
+IT→EN,6,Fa molto caldo d'estate in questa città.,It is very hot in summer in this city.,It's very hot in summer in this town.,54.63,It's very hot in the summer in this city.,52.54
+IT→EN,7,Puoi dirmi dov'è la stazione dei treni?,Can you tell me where the train station is?,Can you tell me where the train station is?,100.0,Can you tell me where the train station is?,100.0
+IT→EN,8,Questo museo è famoso in tutto il mondo.,This museum is famous all over the world.,This museum is famous all over the world.,100.0,This museum is famous throughout the world.,44.12
+IT→EN,9,Non ho ancora fatto colazione stamattina.,I have not had breakfast yet this morning.,I haven't had breakfast this morning.,24.18,I haven't had breakfast yet this morning.,62.4
+IT→EN,10,Il libro che mi hai consigliato era bellissimo.,The book you recommended to me was wonderful.,The book you recommended was beautiful.,34.19,The book you recommended was beautiful.,34.19
+IT→EN,11,Hanno aperto un nuovo ristorante in centro.,They have opened a new restaurant in the city centre.,They opened a new restaurant downtown.,25.69,They opened a new restaurant downtown.,25.69
+IT→EN,12,Mia nonna cucina sempre ottimi piatti.,My grandmother always cooks excellent dishes.,My grandmother always cooks great dishes.,48.89,My grandmother always cooks excellent dishes.,100.0
+IT→EN,13,La riunione è stata spostata a domani pomeriggio.,The meeting has been moved to tomorrow afternoon.,The meeting was moved to tomorrow afternoon.,52.47,The meeting has been postponed until tomorrow afternoon.,43.17
+IT→EN,14,Studia violino dall'età di sei anni.,He has been studying the violin since the age of six.,He studied violin from the age of six.,34.79,He has been studying violin since the age of six.,74.26
+IT→EN,15,I fiori sbocciano in primavera.,The flowers bloom in spring.,Flowers blossom in spring.,32.56,The flowers bloom in spring.,100.0
+IT→EN,16,Abbiamo guardato una serie televisiva ieri sera.,We watched a television series last night.,We watched a TV show last night.,34.57,We watched a TV series last night.,50.0
+IT→EN,17,Il treno era in ritardo di mezz'ora.,The train was half an hour late.,The train was half an hour late.,100.0,The train was half an hour late.,100.0
+IT→EN,18,Parla tre lingue in modo fluente.,She speaks three languages fluently.,He speaks three languages fluently.,75.98,He speaks three languages ??fluently.,25.85
+IT→EN,19,Questo locale serve ottimi piatti di pesce.,This place serves excellent fish dishes.,This place serves excellent fish dishes.,100.0,This restaurant serves excellent fish dishes.,64.35
+IT→EN,20,Le nuove tecnologie stanno cambiando il mondo del lavoro.,New technologies are changing the world of work.,New technologies are changing the world of work.,100.0,New technologies are changing the world of work.,100.0
+PT→EN,1,O sol nasce a leste todos os dias.,The sun rises in the east every day.,The sun rises east every day.,44.68,The sun rises in the east every day.,100.0
+PT→EN,2,Eu gosto muito de ouvir música.,I really like listening to music.,I really like listening to music.,100.0,I really enjoy listening to music.,48.89
+PT→EN,3,Ela trabalha num hospital há quinze anos.,She has worked in a hospital for fifteen years.,She's been working in a hospital for 15 years.,31.24,She has worked at a hospital for fifteen years.,65.8
+PT→EN,4,Vamos viajar para o Brasil nas próximas férias.,We are going to travel to Brazil on the next holiday.,We're going to travel to Brazil on the next vacation.,63.82,We're going to travel to Brazil on our next vacation.,45.31
+PT→EN,5,As crianças estão brincando no jardim.,The children are playing in the garden.,The kids are playing in the garden.,70.71,The children are playing in the garden.,100.0
+PT→EN,6,Faz muito frio aqui durante o inverno.,It is very cold here during winter.,It's very cold here during the winter.,41.11,It gets very cold here during the winter.,36.89
+PT→EN,7,Pode me indicar onde fica a estação de trem?,Can you tell me where the train station is?,Can you tell me where the train station is?,100.0,Can you tell me where the train station is located?,80.71
+PT→EN,8,Esta cidade é famosa pelos seus monumentos históricos.,This city is famous for its historical monuments.,This city is famous for its historical monuments.,100.0,This city is famous for its historical monuments.,100.0
+PT→EN,9,Ainda não tomei café da manhã hoje.,I have not had breakfast yet today.,I haven't had breakfast yet today.,55.78,I haven't had breakfast yet today.,55.78
+PT→EN,10,O livro que você me emprestou foi incrível.,The book you lent me was incredible.,The book you lent me was amazing.,70.71,The book you lent me was amazing.,70.71
+PT→EN,11,Eles construíram uma nova escola no bairro.,They built a new school in the neighbourhood.,They built a new school in the neighborhood.,75.06,They built a new school in the neighborhood.,75.06
+PT→EN,12,Minha mãe sempre prepara refeições deliciosas.,My mother always prepares delicious meals.,My mother always prepares delicious meals.,100.0,My mother always prepares delicious meals.,100.0
+PT→EN,13,A reunião foi adiada para amanhã de manhã.,The meeting was postponed to tomorrow morning.,The meeting was postponed until tomorrow morning.,50.0,The meeting was postponed until tomorrow morning.,50.0
+PT→EN,14,Ele aprende guitarra desde os oito anos de idade.,He has been learning guitar since the age of eight.,He's been learning guitar since he was eight years old.,25.97,He has been learning guitar since he was eight years old.,44.83
+PT→EN,15,As flores desabrocham na primavera.,The flowers bloom in spring.,The flowers pop out in spring.,30.74,The flowers bloom in the spring.,48.89
+PT→EN,16,Assistimos a um documentário ontem à noite.,We watched a documentary last night.,We watched a documentary last night.,100.0,We watched a documentary last night.,100.0
+PT→EN,17,O trem chegou com trinta minutos de atraso.,The train arrived thirty minutes late.,The train arrived thirty minutes late.,100.0,The train arrived thirty minutes late.,100.0
+PT→EN,18,Ela fala quatro idiomas com fluência.,She speaks four languages fluently.,She speaks four languages fluently.,100.0,She speaks four languages ??fluently.,41.11
+PT→EN,19,Este restaurante é conhecido pelos seus pratos típicos.,This restaurant is known for its traditional dishes.,This restaurant is known for its typical dishes.,66.06,This restaurant is known for its typical dishes.,66.06
+PT→EN,20,A tecnologia está transformando a maneira como vivemos.,Technology is transforming the way we live.,Technology is transforming the way we live.,100.0,Technology is transforming the way we live.,100.0

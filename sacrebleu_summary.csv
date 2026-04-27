@@ -1,0 +1,6 @@
+language_pair,marianmt_corpus_bleu,google_corpus_bleu
+FR→EN,58.0,79.49
+DE→EN,79.47,81.94
+ES→EN,80.69,90.5
+IT→EN,56.0,66.52
+PT→EN,70.71,71.99
