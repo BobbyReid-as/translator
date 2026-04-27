@@ -240,11 +240,11 @@ label {
 """
 
 def build_interface():
-    with gr.Blocks(css=CSS, title="Polyglot — Translation Pipeline") as demo:
+    with gr.Blocks(css=CSS, title="Cool Translator — Translation Pipeline") as demo:
 
         gr.HTML("""
         <div style="padding: 8px 0 4px 0">
-          <h1 class="title">Polyglot</h1>
+          <h1 class="title">Translate to English</h1>
           <div class="subtitle">MarianMT · HuggingFace · Auto-detection</div>
           <hr class="divider">
           <div style="margin-bottom:8px; font-family:'DM Mono',monospace; font-size:0.76rem; color:#7a7060;">
